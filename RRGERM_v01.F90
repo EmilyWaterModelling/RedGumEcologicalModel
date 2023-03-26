@@ -2,8 +2,9 @@
 !
 !                          River Red Gum Ecological Response Model (RRGERM)
 !
-!  RRGERM developed by E.J. Barbour October 2021 with contributions in study design from 
+!  RRGERM version 01 developed by E.J. Barbour October 2015 with contributions in study design from 
 !  G. Kuczera, B. Croke, and P.D Driver.
+
 !  Results from this code are provided in the manuscript (under review): 
 !  "Uncertainty in wetland ecological response for environmental flow management"
 !
